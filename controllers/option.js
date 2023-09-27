@@ -7,7 +7,7 @@ const createOption = async (req, res) => {
 
   try {
     // await Option.bulkCreate(options).then(() =>
-    //   console.log("options saved successfully
+    //   console.log("options saved success
     // );
 
     await options?.map((opt) =>
